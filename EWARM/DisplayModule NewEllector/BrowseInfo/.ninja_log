@@ -1,0 +1,61 @@
+# ninja log v5
+26	528	6812344910000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/CAN_GlobalFunctions/CAN_GlobalFunctions.xcl	9414769effc0a4c4
+34	544	6812344910000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/CAN_GlobalFunctions/CAN_ISRFunctions.xcl	556da3ab6025c57b
+2	566	6812344910000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_can.xcl	2ffd53d6bbeb1433
+30	586	6812344910000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/CMSIS/system_stm32f1xx.xcl	4c20983c2a9c8661
+559	696	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_dma.xcl	4f5df1286703c0bc
+541	712	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal.xcl	ccb81a2973e8496b
+607	731	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_exti.xcl	826354976d283bc7
+579	747	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_cortex.xcl	1a4e17634ac0e7b7
+709	821	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_flash_ex.xcl	15cbe2d12c49ef
+725	837	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_gpio.xcl	4d8f3b9bae384e3c
+744	862	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_flash.xcl	4544e17b1baae111
+759	877	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rcc.xcl	5f687b4bc39dbae7
+834	964	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rtc.xcl	b939be5a6ff42310
+847	980	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_gpio_ex.xcl	1e8300ae792a3505
+887	1019	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rtc_ex.xcl	b65746a85bc6b307
+874	1035	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_pwr.xcl	3cd6a975931e7257
+976	1106	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rcc_ex.xcl	670eab0896f3bc6
+991	1122	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Application/User/stm32f1xx_it.xcl	b4df737316f9f4af
+1032	1161	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Application/User/main.xcl	84ba88b7965b2b7e
+1045	1178	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Application/User/stm32f1xx_hal_msp.xcl	83f2b8ee2df59a91
+1119	1263	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/RTC_GlobalFunctions/RTC_GlobalFunctions.xcl	1189b13cb28d2bf0
+1133	1312	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/LCD-LMB161A/LCD_ISRFunctions.xcl	ab463c0371e6d7d1
+1173	1337	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/LCD-LMB161A/LCD_LMB161A.xcl	ab213da955e8f1bc
+1188	1371	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_tim_ex.xcl	f196699990256bb2
+1273	1410	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/LCD-LMB161A/LCD_Modes.xcl	c5a000916f44a3b2
+1324	1440	6812344920000000	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_tim.xcl	a711833d30172487
+1383	2092	6812344934531371	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/CAN_GlobalFunctions/CAN_ISRFunctions.pbi	9d56356722a86ec5
+1348	2098	6812344934541341	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Application/User/stm32f1xx_hal_msp.pbi	252523c7ae7fd12
+1453	2105	6812344934551320	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/CMSIS/system_stm32f1xx.pbi	7dbca283ad06e483
+1422	2112	6812344934611156	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Application/User/stm32f1xx_it.pbi	3512aa7c4626b2e3
+2110	2387	6812344937483489	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal.pbi	aac36463de9385ac
+2103	2418	6812344937802632	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/CAN_GlobalFunctions/CAN_GlobalFunctions.pbi	7abaf10e7f5de911
+2117	2431	6812344937922417	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_can.pbi	7338b78e0715407f
+2096	2505	6812344938680283	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Application/User/main.pbi	f5cb229646cf49ca
+2393	2662	6812344940246097	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_exti.pbi	3712d73ea7bb44df
+2423	2687	6812344940485473	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_gpio.pbi	86cb6721dbaf8853
+2437	2712	6812344940734798	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_dma.pbi	224452947d348b8c
+2510	2784	6812344941452874	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_flash.pbi	236cbb14161245e8
+2667	2943	6812344943048608	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_cortex.pbi	74d329281df335c0
+2693	2967	6812344943287991	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_flash_ex.pbi	2b4b998f8e09026c
+2789	3050	6812344944125753	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_pwr.pbi	2dcafae669d969e0
+2717	3107	6812344944694239	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_tim.pbi	2cabf488147194ea
+2949	3235	6812344945970809	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rcc.pbi	820589c8b9cf360
+2972	3359	6812344947217481	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rcc_ex.pbi	d490ef599c5f0ad7
+3056	3384	6812344947277329	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rtc.pbi	76f36787ed89444f
+3113	3393	6812344947546596	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_gpio_ex.pbi	14b5e436ed630107
+3241	3502	6812344948643664	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rtc_ex.pbi	4c8b2338bc889cc7
+3389	3683	6812344950428903	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/LCD-LMB161A/LCD_ISRFunctions.pbi	5f52c0fc996db13f
+3398	3691	6812344950428903	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/LCD-LMB161A/LCD_LMB161A.pbi	8beb0424066a1616
+3365	3724	6812344950867725	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector_part0.pbi	895fe9a0b4695e53
+3508	3806	6812344951675561	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/LCD-LMB161A/LCD_Modes.pbi	128805f1a174902b
+3688	4032	6812344953939506	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/RTC_GlobalFunctions/RTC_GlobalFunctions.pbi	db3a29403c3879ed
+3695	4065	6812344954268628	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_tim_ex.pbi	348202cb228e69c1
+3732	4132	6812344954946830	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector_part3.pbi	17d9386347f09a1b
+4036	4143	6812344955016639	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector_part5.pbi	233dd45dbb37be97
+3810	4170	6812344955325803	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector_part2.pbi	99d2a180acfe4f87
+4071	4418	6812344957809179	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector_part4.pbi	3256fd3d29ac63b9
+4141	4447	6812344958098402	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector_part1.pbi	e1dea0760d9d2a9a
+4458	4785	6812344961479677	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector.pbd	11cf81f3bc8b6c0a
+4797	7433	6812344987480242	C:/Users/rowad/Desktop/New folder/DisplayModule/EWARM/DisplayModule NewEllector/BrowseInfo/DisplayModule NewEllector.pbw	b3d3485fc035e2e4
